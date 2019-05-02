@@ -5,7 +5,8 @@ The app accepts user data as a stream from a web API and display the top N young
 
 How to Run
 
-Clone this git repository and run the following commands to build the project and run it.
+Clone this git repository and run the following commands to build the project and run it. The commands will download gradle
+and build the project. The run command will run the program.
 
 $> ./gradlew clean build
 
