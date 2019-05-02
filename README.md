@@ -8,6 +8,7 @@ How to Run
 Clone this git repository and run the following commands to build the project and run it.
 
 $> ./gradlew clean build
+
 $> ./gradlew run
 
 
